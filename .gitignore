@@ -1,0 +1,5 @@
+__pycache__/
+venv/
+# Ignore other common files/folders
+__pycache__/
+*.pyc
